@@ -12,7 +12,7 @@ The initial proposed services are:
 | Monitor | Keeps track of accounts and provides dashboard view on financials (for now outside the repository - to be moved in) |
 | Expenses| Allow everyone to easily submit and process expenses | 
 | Projects| Keeps track projects (internal/external), activities within those projects duration etc. | 
-| Allocation | Allocation of people to projects, allows us to effectively |
+| Merlin  | Allocation of people to projects, allows us to effectively manage project commitments. |
 | Clients | Allow us to manage our relationship with clients |
 
 ## Documentation
