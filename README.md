@@ -23,3 +23,7 @@ All documentation for the internal tools should be managed in the wiki for this 
 ## Planning and Coordination
 
 We propose to create a Trello Board for the internal tools features
+
+## Context Map
+
+https://docs.google.com/drawings/d/1lhyUNV1SBLvBWzkiK22BzmDIZSNd7DX-6vDwz5g_MPk/edit
